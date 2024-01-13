@@ -1,0 +1,24 @@
+.container__topo {
+    text-align: center;
+    padding: 6em;
+    font-family: var(--font-principal);
+}
+
+.topo__texto {
+    color: var(--cor-secundaria);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.topo__titulo {
+    color: var( --cor-font);
+    font-size: 48px;
+    font-weight: 600;
+    padding: 1.5em 0em;
+}
+
+.topo__descricao {
+    color: var( --cor-menu-link);
+    font-size: 20px;
+    margin: 0em 9em;
+}
