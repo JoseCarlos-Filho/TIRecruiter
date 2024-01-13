@@ -1,0 +1,62 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1.5em 5em;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.cabecalho__lista {
+    display: flex;
+    margin-left: 7em;
+}
+
+.container__logo {
+    padding-right: 0.5em;
+}
+
+.cabecalho__titulo {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cor-font-optimus);
+    font-family: var(--font-principal);
+}
+
+.cabecalho__item {
+    margin-right: 2em;
+}
+
+.cabecalho__link {
+    text-decoration: none;
+    color: var(--cor-menu-link);
+    font-family: var(--font-principal);
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.container__button {
+    text-decoration: none;
+    padding: 0.6em 1em;
+    border-radius: 8px;
+    margin-right: 1.2em;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: var(--font-principal);
+}
+
+.entrar {
+    color: var(--cor-menu-link);
+    border: 1px transparent;
+}
+
+.cadastrar {
+    background-color: var(--cor-secundaria);
+    color: var(--cor-primaria);
+    border: 1px solid var(--cor-secundaria);
+    box-shadow: 0px 1px 2px 0px var(--cor-shadow-cadastrar);
+
+}
