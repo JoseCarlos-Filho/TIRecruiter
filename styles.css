@@ -5,4 +5,14 @@
     --cor-primaria: #ffffff;
     --cor-secundaria: #8E2424;
     --cor-font: #101828;
+    --cor-font-optimus: #3A404E;
+    --cor-menu-link: #667085;
+    --cor-shadow-cadastrar: rgba(16, 24, 40, 0.05);
+    --font-principal: 'Inter';
+}
+
+body {
+    background-color: var(--cor-primaria);
+    font-size: 14px;
+    font-weight: 400;
 }
