@@ -3,6 +3,7 @@
     justify-content: space-between;
     align-items: center;
     margin: 1.5em 5em;
+    font-family: var(--font-principal);
 }
 
 .container {
@@ -23,7 +24,6 @@
     font-size: 18px;
     font-weight: 500;
     color: var(--cor-font-optimus);
-    font-family: var(--font-principal);
 }
 
 .cabecalho__item {
@@ -33,7 +33,6 @@
 .cabecalho__link {
     text-decoration: none;
     color: var(--cor-menu-link);
-    font-family: var(--font-principal);
     font-size: 16px;
     font-weight: 500;
 }
@@ -45,7 +44,6 @@
     margin-right: 1.2em;
     font-size: 16px;
     font-weight: 500;
-    font-family: var(--font-principal);
 }
 
 .entrar {
