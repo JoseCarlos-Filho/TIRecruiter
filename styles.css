@@ -2,6 +2,7 @@
 @import url("styles/header.css");
 @import url("styles/topo.css");
 @import url("styles/estatistica.css");
+@import url("styles/vagas.css");
 
 :root {
     --cor-primaria: #ffffff;
