@@ -1,6 +1,6 @@
 .container__topo {
     text-align: center;
-    padding: 6em;
+    margin: 6em;
     font-family: var(--font-principal);
 }
 
@@ -21,4 +21,17 @@
     color: var( --cor-menu-link);
     font-size: 20px;
     margin: 0em 9em;
+}
+
+.topo__titulo--meio {
+    font-family: var(--font-principal);
+    font-size: 36px;
+    font-weight: 600;
+    padding: 1.5em 0em;
+}
+
+.container__vagasabertas {
+    text-align: center;
+    font-family: var(--font-principal);
+    margin-bottom: 4em;
 }
