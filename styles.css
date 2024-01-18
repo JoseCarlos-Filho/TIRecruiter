@@ -3,6 +3,7 @@
 @import url("styles/topo.css");
 @import url("styles/estatistica.css");
 @import url("styles/vagas.css");
+@import url("styles/footer.css");
 
 :root {
     --cor-primaria: #ffffff;
@@ -11,7 +12,13 @@
     --cor-font-optimus: #3A404E;
     --cor-menu-link: #667085;
     --cor-shadow-cadastrar: rgba(16, 24, 40, 0.05);
+    --cor-background-content: rgba(195, 25, 25, 0.03);
+    --cor-border: #EAECF0;
+    --cor-background: #FFFFFF;
     --font-principal: 'Inter';
+    --cor-background-footer: #F9FAFB;
+    --cor-copyright: #98A2B3;
+    --cor-border-email: #D0D5DD;
 }
 
 body {
