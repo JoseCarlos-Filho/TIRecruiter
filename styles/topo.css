@@ -10,6 +10,11 @@
     font-weight: 600;
 }
 
+.topo__texto--content {
+    color: var(--cor-secundaria);
+    font-weight: 500;
+}
+
 .topo__titulo {
     color: var( --cor-font);
     font-size: 48px;
@@ -34,4 +39,26 @@
     text-align: center;
     font-family: var(--font-principal);
     margin-bottom: 4em;
+}
+
+.estilofundo {
+    background-color: var(--cor-background-content);
+    border-radius: 16px;
+    padding: 4em;
+    margin: 4em;
+}
+
+.estilofont {
+    font-weight: 500;
+}
+
+.topo__nome {
+    padding: 1em 0em;
+    color: var(--cor-font);
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.topo__funcao {
+    color: var(--cor-menu-link);
 }
